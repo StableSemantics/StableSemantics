@@ -1,4 +1,4 @@
-## Hi there 👋
+## StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images
 
 <!--
 **StableSemantics/StableSemantics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
